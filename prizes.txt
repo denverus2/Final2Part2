@@ -1,0 +1,1 @@
+Toy{id=3, name='Кукла', quantity=11, frequency=40}
